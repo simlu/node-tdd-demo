@@ -1,0 +1,15 @@
+{
+  "@blackflux/robo-config-plugin": {
+    "tasks": [
+      "assorted/@npm-opensource"
+    ],
+    "variables": {
+      "repoKey": "blackflux/node-tdd-demo",
+      "packageName": "node-tdd-demo",
+      "projectName": "node-tdd-demo",
+      "owner": "simlu",
+      "ownerName": "Lukas Siemon",
+      "mergeBot": "MrsFlux"
+    }
+  }
+}
